@@ -1,0 +1,54 @@
+Patient_ID,Index,True_Label,True_Label_Numeric,Predicted_Label,Predicted_Label_Numeric,Pneumonia_Probability,Normal_Probability,Risk_Score_Percentage,Risk_Level,Confidence_Level,Prediction_Status,Prediction_Type,Is_Correct
+Patient_0067,66,Normal,0,Pneumonia,1,0.9998584,0.00014162064,99.98584,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0089,88,Normal,0,Pneumonia,1,0.88175356,0.118246436,88.175354,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0092,91,Normal,0,Pneumonia,1,0.991462,0.008538008,99.1462,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0101,100,Normal,0,Pneumonia,1,0.8160722,0.18392777,81.60722,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0104,103,Normal,0,Pneumonia,1,0.6058194,0.3941806,60.58194,Medium Risk,Low,Incorrect,False Positive (FP),False
+Patient_0106,105,Normal,0,Pneumonia,1,0.8637402,0.1362598,86.37402,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0116,115,Normal,0,Pneumonia,1,0.8787174,0.12128258,87.87174,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0117,116,Normal,0,Pneumonia,1,0.94230074,0.057699263,94.23007,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0118,117,Normal,0,Pneumonia,1,0.9094932,0.09050679,90.94932,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0119,118,Normal,0,Pneumonia,1,0.91774714,0.08225286,91.77471,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0120,119,Normal,0,Pneumonia,1,0.830599,0.16940099,83.0599,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0122,121,Normal,0,Pneumonia,1,0.9127506,0.0872494,91.27506,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0123,122,Normal,0,Pneumonia,1,0.9373178,0.06268221,93.73178,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0125,124,Normal,0,Pneumonia,1,0.8837191,0.11628091,88.37191,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0127,126,Normal,0,Pneumonia,1,0.95185107,0.04814893,95.185104,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0132,131,Normal,0,Pneumonia,1,0.93526334,0.064736664,93.52634,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0136,135,Normal,0,Pneumonia,1,0.8484873,0.15151268,84.84873,High Risk,High,Incorrect,False Positive (FP),False
+Patient_0138,137,Normal,0,Pneumonia,1,0.9951673,0.004832685,99.51673,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0140,139,Normal,0,Pneumonia,1,0.7938527,0.20614731,79.38527,High Risk,Moderate,Incorrect,False Positive (FP),False
+Patient_0150,149,Normal,0,Pneumonia,1,0.9609122,0.039087772,96.091225,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0162,161,Normal,0,Pneumonia,1,0.7848368,0.21516317,78.48368,High Risk,Moderate,Incorrect,False Positive (FP),False
+Patient_0165,164,Normal,0,Pneumonia,1,0.9978289,0.0021710992,99.78289,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0166,165,Normal,0,Pneumonia,1,0.9758814,0.024118602,97.58814,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0180,179,Normal,0,Pneumonia,1,0.9427316,0.05726838,94.27316,High Risk,Very High,Incorrect,False Positive (FP),False
+Patient_0189,188,Normal,0,Pneumonia,1,0.5615762,0.4384238,56.15762,Medium Risk,Low,Incorrect,False Positive (FP),False
+Patient_0208,207,Normal,0,Pneumonia,1,0.58775795,0.41224205,58.775795,Medium Risk,Low,Incorrect,False Positive (FP),False
+Patient_0247,246,Pneumonia,1,Normal,0,0.43661568,0.5633843,43.661568,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0259,258,Pneumonia,1,Normal,0,0.1312094,0.8687906,13.12094,Low Risk,High,Incorrect,False Negative (FN),False
+Patient_0275,274,Pneumonia,1,Normal,0,0.45987236,0.54012764,45.987236,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0280,279,Pneumonia,1,Normal,0,0.011576594,0.9884234,1.1576594,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0282,281,Pneumonia,1,Normal,0,0.49875048,0.50124955,49.87505,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0283,282,Pneumonia,1,Normal,0,0.38598195,0.6140181,38.598194,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0285,284,Pneumonia,1,Normal,0,0.34063205,0.6593679,34.063206,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0309,308,Pneumonia,1,Normal,0,0.0837961,0.9162039,8.37961,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0334,333,Pneumonia,1,Normal,0,0.077448025,0.922552,7.7448025,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0343,342,Pneumonia,1,Normal,0,0.09263662,0.90736336,9.263662,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0371,370,Pneumonia,1,Normal,0,0.002385511,0.9976145,0.23855111,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0374,373,Pneumonia,1,Normal,0,0.04006395,0.959936,4.0063953,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0385,384,Pneumonia,1,Normal,0,0.37109438,0.62890565,37.109436,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0392,391,Pneumonia,1,Normal,0,0.3260572,0.6739428,32.60572,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0396,395,Pneumonia,1,Normal,0,0.4162408,0.5837592,41.62408,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0404,403,Pneumonia,1,Normal,0,0.23761767,0.7623823,23.761766,Low Risk,Moderate,Incorrect,False Negative (FN),False
+Patient_0412,411,Pneumonia,1,Normal,0,0.005711096,0.9942889,0.5711096,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0445,444,Pneumonia,1,Normal,0,0.08320429,0.91679573,8.320429,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0454,453,Pneumonia,1,Normal,0,0.3254194,0.6745806,32.54194,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0459,458,Pneumonia,1,Normal,0,0.37170652,0.6282935,37.17065,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0466,465,Pneumonia,1,Normal,0,0.43634206,0.56365794,43.634205,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0473,472,Pneumonia,1,Normal,0,0.08336724,0.9166328,8.336724,Low Risk,Very High,Incorrect,False Negative (FN),False
+Patient_0490,489,Pneumonia,1,Normal,0,0.34060368,0.6593963,34.060368,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0520,519,Pneumonia,1,Normal,0,0.38964555,0.6103544,38.964554,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0531,530,Pneumonia,1,Normal,0,0.439917,0.56008303,43.9917,Medium Risk,Low,Incorrect,False Negative (FN),False
+Patient_0585,584,Pneumonia,1,Normal,0,0.25546235,0.74453765,25.546234,Low Risk,Moderate,Incorrect,False Negative (FN),False
+Patient_0599,598,Pneumonia,1,Normal,0,0.004317272,0.9956827,0.4317272,Low Risk,Very High,Incorrect,False Negative (FN),False

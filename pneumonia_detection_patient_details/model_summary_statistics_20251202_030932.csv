@@ -1,0 +1,19 @@
+Metric,Value
+Total Patients,624
+Correct Predictions,571
+Incorrect Predictions,53
+Overall Accuracy (%),91.51
+,
+True Positives (TP),363
+True Negatives (TN),208
+False Positives (FP),26
+False Negatives (FN),27
+,
+Sensitivity/Recall (%),93.08
+Specificity (%),88.89
+Precision (%),93.32
+F1-Score (%),93.20
+,
+Low Risk Patients,213
+Medium Risk Patients,37
+High Risk Patients,374
